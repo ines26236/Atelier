@@ -1,0 +1,6 @@
+{
+    "name": "projet/classic-crud",
+    "description": "CRUD utilisateurs/produits - mode classique",
+    "require": { "php": ">=8.0" },
+    "require-dev": { "fakerphp/faker": "^1.23" }
+}
